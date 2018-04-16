@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!--Format for creating a nation-->
+<!--Delcare nation with <nation>-->
+<!--The Name of the nation-->
+<!--The alliance the nation is a member of-->
+<!--Populatin of nation-->
+<!--Starting budget-->
+<!--Starting CO2 emissions for nation-->
+<!--Each of the 6 stats are stored next-->
+<!--Close with </nation>-->
+<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+
+<nations>
+  <nation>
+   <name>SWEDEN</name>
+   <alliance>EU</alliance>
+   <budget>511</budget>  
+   <economyScore>82.8</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>43.4</emissionsTotal>
+   <emissionsMultiplier>0.96</emissionsMultiplier>
+      <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>FRANCE</name>
+   <alliance>EU</alliance>
+   <budget>2465</budget>  
+   <economyScore>42.4</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>303.3</emissionsTotal>
+   <emissionsMultiplier>0.91</emissionsMultiplier>
+    <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+     <name>MALTA</name>
+   <alliance>EU</alliance>
+   <budget>10.9</budget>  
+   <economyScore>37.9</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>2.3</emissionsTotal>
+   <emissionsMultiplier>1</emissionsMultiplier>
+      <icfWithdraws>no</icfWithdraws>
+  </nation>
+ <nation>
+   <name>BRAZIL</name>
+   <alliance>BASIC</alliance>
+   <budget>1796</budget>  
+   <economyScore>8.6</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>529.8</emissionsTotal>
+   <emissionsMultiplier>1.04</emissionsMultiplier>
+     <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>CHINA</name>
+    <alliance>BASIC</alliance>
+   <budget>11199</budget>  
+   <economyScore>8.1</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>10291.9</emissionsTotal>
+   <emissionsMultiplier>1</emissionsMultiplier>
+      <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>INDIA</name>
+    <alliance>BASIC</alliance>
+   <budget>2264</budget>  
+   <economyScore>3.3</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>2238.4</emissionsTotal>
+   <emissionsMultiplier>1.01</emissionsMultiplier>
+      <icfWithdraws>yes</icfWithdraws>
+  </nation>
+  <nation>
+    <name>BARBADOS</name>
+    <alliance>AOSIS</alliance>
+   <budget>4.6</budget>  
+   <economyScore>16.9</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>1.3</emissionsTotal>
+   <emissionsMultiplier>0.88</emissionsMultiplier>
+      <icfWithdraws>yes</icfWithdraws>
+  </nation>
+  <nation>
+    <name>DOMINICAN REPUBLIC</name>
+    <alliance>AOSIS</alliance>
+   <budget>71.6</budget>  
+   <economyScore>6.7</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>21.5</emissionsTotal>
+   <emissionsMultiplier>1</emissionsMultiplier>
+        <icfWithdraws>yes</icfWithdraws>
+  </nation>
+  <nation>
+    <name>SINGAPORE</name>
+    <alliance>AOSIS</alliance>
+   <budget>71.6</budget>  
+   <economyScore>53.0</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>56.4</emissionsTotal>
+   <emissionsMultiplier>1.01</emissionsMultiplier>
+        <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>CANADA</name>
+    <alliance>UmbrellaGroup</alliance>
+   <budget>1530</budget>  
+   <economyScore>46.2</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>584</emissionsTotal>
+   <emissionsMultiplier>1.04</emissionsMultiplier>
+  <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>NEW ZEALAND</name>
+    <alliance>UmbrellaGroup</alliance>
+   <budget>185</budget>  
+   <economyScore>82.4</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>72.0</emissionsTotal>
+   <emissionsMultiplier>1.04</emissionsMultiplier>
+  <icfWithdraws>no</icfWithdraws>
+  </nation>
+  <nation>
+    <name>USA</name>
+    <alliance>UmbrellaGroup</alliance>
+   <budget>18569</budget>  
+   <economyScore>57.3</economyScore>
+   <economyMultiplier>0</economyMultiplier>
+   <emissionsTotal>5200</emissionsTotal>
+   <emissionsMultiplier>1.02</emissionsMultiplier>
+  <icfWithdraws>no</icfWithdraws>
+  </nation>
+</nations>

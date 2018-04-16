@@ -1,0 +1,118 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e1)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.446 seconds
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.423514 ms
+Connecting to server..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.Xml.dll (this message is harmless)
+United Kingdom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e1)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.272124 ms
+Connected to master.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joined Lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connecting to server..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Jamie\Dropbox\Earth Remembers\Earth Remembers\TestBuild2_Data\Managed\System.Xml.dll (this message is harmless)
+United Kingdom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected to master.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joined Lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+create room successfully sent. a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+room created successfuly
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully joined room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully joined room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1520 -> priority: 1 
+  Thread -> id: 2848 -> priority: 1 
+  Thread -> id: 1144 -> priority: 1 
+  Thread -> id: 8c8 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: ba8 -> priority: 1 
+  Thread -> id: 174c -> priority: 1 
+  Thread -> id: 1bbc -> priority: 1 
+  Thread -> id: 14e4 -> priority: 1 

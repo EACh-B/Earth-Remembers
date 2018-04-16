@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!--Open with <Export>-->
+<!--Name of the export-->
+<!--Value and the effect on budget-->
+<!--close with </Export>-->
+
+<Exports>
+  <Export>
+    <name>Machinery</name>
+    <value>100</value>
+  </Export>
+  <Export>
+    <name>Paper Items</name>
+    <value>100</value>
+  </Export>
+  <Export>
+    <name>Iron and Steel</name>
+    <value>100</value>
+  </Export>
+  <Export>
+    <name>Chemicals</name>
+    <value>100</value>
+  </Export>
+  <Export>
+    <name>Armaments</name>
+    <value>100</value>
+  </Export>
+</Exports>
+

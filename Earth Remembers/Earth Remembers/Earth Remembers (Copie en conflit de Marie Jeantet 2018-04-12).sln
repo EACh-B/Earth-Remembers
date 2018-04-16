@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earth Remembers", "Assembly-CSharp-firstpass.csproj", "{BCE3D6FC-B03C-B71A-F36E-5B1B450C9A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earth Remembers", "Assembly-CSharp.csproj", "{F4B5DD69-FE29-D874-8F61-4D92CB687106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earth Remembers", "Assembly-CSharp-Editor.csproj", "{38BACB86-CC7D-6757-2FEF-956614F13EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE3D6FC-B03C-B71A-F36E-5B1B450C9A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE3D6FC-B03C-B71A-F36E-5B1B450C9A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE3D6FC-B03C-B71A-F36E-5B1B450C9A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE3D6FC-B03C-B71A-F36E-5B1B450C9A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B5DD69-FE29-D874-8F61-4D92CB687106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B5DD69-FE29-D874-8F61-4D92CB687106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B5DD69-FE29-D874-8F61-4D92CB687106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B5DD69-FE29-D874-8F61-4D92CB687106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BACB86-CC7D-6757-2FEF-956614F13EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BACB86-CC7D-6757-2FEF-956614F13EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BACB86-CC7D-6757-2FEF-956614F13EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BACB86-CC7D-6757-2FEF-956614F13EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

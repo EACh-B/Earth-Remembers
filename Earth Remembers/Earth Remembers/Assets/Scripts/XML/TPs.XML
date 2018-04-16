@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!--Format for creating a nation-->
+<!--Delcare nation with <tp>-->
+<!--The Name of the tipping point-->
+<!--Description of the tipping point which can be displayed for the gm/players. -->
+<!--Close with </tp>-->
+<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+
+<tippingpoints>
+
+	<tp>
+		<name>Artic Sea Ice Melt</name>
+		<description>The ice of the Artic sea has melted, ocean levels have risen!</description>
+	</tp>
+
+
+
+
+
+</tippingpoints>

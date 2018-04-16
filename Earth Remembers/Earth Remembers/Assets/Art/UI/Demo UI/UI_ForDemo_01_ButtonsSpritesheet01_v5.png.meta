@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b06f1af4ad8ae4940bee430d8160efe7
+timeCreated: 1509882183
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_ForDemo_01_ButtonsSpritesheet01_v5_0
+    21300002: UI_ForDemo_01_ButtonsSpritesheet01_v5_1
+    21300004: UI_ForDemo_01_ButtonsSpritesheet01_v5_2
+    21300006: UI_ForDemo_01_ButtonsSpritesheet01_v5_3
+    21300008: UI_ForDemo_01_ButtonsSpritesheet01_v5_4
+    21300010: UI_ForDemo_01_ButtonsSpritesheet01_v5_5
+    21300012: UI_ForDemo_01_ButtonsSpritesheet01_v5_6
+    21300014: UI_ForDemo_01_ButtonsSpritesheet01_v5_7
+    21300016: UI_ForDemo_01_ButtonsSpritesheet01_v5_8
+    21300018: UI_ForDemo_01_ButtonsSpritesheet01_v5_9
+    21300020: UI_ForDemo_01_ButtonsSpritesheet01_v5_10
+    21300022: UI_ForDemo_01_ButtonsSpritesheet01_v5_11
+    21300024: UI_ForDemo_01_ButtonsSpritesheet01_v5_12
+    21300026: UI_ForDemo_01_ButtonsSpritesheet01_v5_13
+    21300028: UI_ForDemo_01_ButtonsSpritesheet01_v5_14
+    21300030: UI_ForDemo_01_ButtonsSpritesheet01_v5_15
+    21300032: UI_ForDemo_01_ButtonsSpritesheet01_v5_16
+    21300034: UI_ForDemo_01_ButtonsSpritesheet01_v5_17
+    21300036: UI_ForDemo_01_ButtonsSpritesheet01_v5_18
+    21300038: UI_ForDemo_01_ButtonsSpritesheet01_v5_19
+    21300040: UI_ForDemo_01_ButtonsSpritesheet01_v5_20
+    21300042: UI_ForDemo_01_ButtonsSpritesheet01_v5_21
+    21300044: UI_ForDemo_01_ButtonsSpritesheet01_v5_22
+    21300046: UI_ForDemo_01_ButtonsSpritesheet01_v5_23
+    21300048: UI_ForDemo_01_ButtonsSpritesheet01_v5_24
+    21300050: UI_ForDemo_01_ButtonsSpritesheet01_v5_25
+    21300052: UI_ForDemo_01_ButtonsSpritesheet01_v5_26
+    21300054: UI_ForDemo_01_ButtonsSpritesheet01_v5_27
+    21300056: UI_ForDemo_01_ButtonsSpritesheet01_v5_28
+    21300058: UI_ForDemo_01_ButtonsSpritesheet01_v5_29
+    21300060: UI_ForDemo_01_ButtonsSpritesheet01_v5_30
+    21300062: UI_ForDemo_01_ButtonsSpritesheet01_v5_31
+    21300064: UI_ForDemo_01_ButtonsSpritesheet01_v5_32
+    21300066: UI_ForDemo_01_ButtonsSpritesheet01_v5_33
+    21300068: UI_ForDemo_01_ButtonsSpritesheet01_v5_34
+    21300070: UI_ForDemo_01_ButtonsSpritesheet01_v5_35
+    21300072: UI_ForDemo_01_ButtonsSpritesheet01_v5_36
+    21300074: UI_ForDemo_01_ButtonsSpritesheet01_v5_37
+    21300076: UI_ForDemo_01_ButtonsSpritesheet01_v5_38
+    21300078: UI_ForDemo_01_ButtonsSpritesheet01_v5_39
+    21300080: UI_ForDemo_01_ButtonsSpritesheet01_v5_40
+    21300082: UI_ForDemo_01_ButtonsSpritesheet01_v5_41
+    21300084: UI_ForDemo_01_ButtonsSpritesheet01_v5_42
+    21300086: UI_ForDemo_01_ButtonsSpritesheet01_v5_43
+    21300088: UI_ForDemo_01_ButtonsSpritesheet01_v5_44
+    21300090: UI_ForDemo_01_ButtonsSpritesheet01_v5_45
+    21300092: UI_ForDemo_01_ButtonsSpritesheet01_v5_46
+    21300094: UI_ForDemo_01_ButtonsSpritesheet01_v5_47
+    21300096: UI_ForDemo_01_ButtonsSpritesheet01_v5_48
+    21300098: UI_ForDemo_01_ButtonsSpritesheet01_v5_49
+    21300100: UI_ForDemo_01_ButtonsSpritesheet01_v5_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6123
+        width: 408
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 6132
+        width: 405
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6089
+        width: 402
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_3
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 6141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_4
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 6153
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5862
+        width: 408
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 5871
+        width: 405
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_7
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5871
+        width: 406
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5656
+        width: 1007
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 5662
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 5653
+        width: 535
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5527
+        width: 1007
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_12
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 5533
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_13
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 5521
+        width: 535
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5395
+        width: 1007
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_15
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 5401
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_16
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 5395
+        width: 535
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5309
+        width: 532
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_18
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 5226
+        width: 590
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5210
+        width: 532
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5104
+        width: 543
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_21
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 5106
+        width: 590
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4986
+        width: 1007
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_23
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 4972
+        width: 619
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4688
+        width: 577
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4677
+        width: 602
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_26
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 4688
+        width: 580
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4450
+        width: 437
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4467
+        width: 406
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4043
+        width: 2163
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3524
+        width: 2055
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2468
+        width: 1846
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_32
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2664
+        width: 9
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1983
+        width: 538
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1983
+        width: 537
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_35
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2213
+        width: 19
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_36
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1983
+        width: 537
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1614
+        width: 667
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_38
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1780
+        width: 642
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_39
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1635
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_40
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1663
+        width: 645
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_41
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1586
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_42
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1577
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1420
+        width: 664
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1439
+        width: 614
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1378
+        width: 648
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 680
+        width: 624
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 680
+        width: 624
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_48
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 837
+        width: 440
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_49
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 674
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ForDemo_01_ButtonsSpritesheet01_v5_50
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 674
+        width: 64
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
