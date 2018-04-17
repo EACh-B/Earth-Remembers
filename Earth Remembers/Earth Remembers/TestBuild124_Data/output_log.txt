@@ -2,31 +2,31 @@ Initialize engine version: 5.6.2f1 (a2913c821e27)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Radeon (TM) RX 470 Graphics (ID=0x67df)
-    Vendor:   ATI
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   NVIDIA
     VRAM:     3072 MB
-    Driver:   23.20.15033.1003
+    Driver:   23.21.13.9065
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.027 seconds
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.436564 ms
+UnloadTime: 3.623150 ms
 Lobby_Parent
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -48,19 +48,11 @@ Joined Lobby
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-create room successfully sent. 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-room created successfuly
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 Successfully joined room
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Platform assembly: D:\Program Files (x86)\Dropbox\Dropbox\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\temp\Documents\Earth-Remembers\Earth Remembers\Earth Remembers\TestBuild124_Data\Managed\System.Xml.dll (this message is harmless)
 Test  = 0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -189,7 +181,7 @@ USA8468
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-USA Selfish
+USA Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -197,7 +189,7 @@ Russia1467.975
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Russia Balance
+Russia Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -205,7 +197,7 @@ Australia551.105
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Australia Altrusistic
+Australia Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -213,7 +205,7 @@ France1119.28
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-France Selfish
+France Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -221,7 +213,7 @@ Greece145.4
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Greece Selfish
+Greece Altrusistic
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -229,7 +221,7 @@ Europe6982.955
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Europe Mitigation
+Europe Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -237,7 +229,7 @@ Mexico1019.455
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Mexico Selfish
+Mexico Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -245,7 +237,7 @@ Republic Of Korea986.27
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Republic Of Korea Tech
+Republic Of Korea Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -253,7 +245,7 @@ Switzerland182.085
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Switzerland Mitigation
+Switzerland Altrusistic
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -261,7 +253,7 @@ Fiji2.205
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Fiji Selfish
+Fiji Altrusistic
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -269,7 +261,7 @@ Marshall Islands0.16
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Marshall Islands Mitigation
+Marshall Islands Selfish
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -277,7 +269,7 @@ Dominican Republic64.09
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Dominican Republic Selfish
+Dominican Republic Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -285,7 +277,7 @@ Nigeria233.36
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Nigeria Mitigation
+Nigeria Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -293,7 +285,7 @@ Ethiopia79.215
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Ethiopia Tech
+Ethiopia Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -301,7 +293,7 @@ South Africa364.87
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-South Africa Balance
+South Africa Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -317,7 +309,7 @@ Oman56.23
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Oman Altrusistic
+Oman Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -325,7 +317,7 @@ Iraq124.825
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Iraq Tech
+Iraq Selfish
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -333,7 +325,7 @@ Colombia300.11
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Colombia Selfish
+Colombia Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -341,7 +333,7 @@ Peru218.295
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Peru Balance
+Peru Selfish
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -357,7 +349,7 @@ Bolivia34.715
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Bolivia Selfish
+Bolivia Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -365,7 +357,7 @@ Nicaragua10.445
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Nicaragua Tech
+Nicaragua Selfish
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -373,7 +365,7 @@ Venezuela221.735
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Venezuela Tech
+Venezuela Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -381,7 +373,7 @@ Bangladesh217.425
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Bangladesh Mitigation
+Bangladesh Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -389,7 +381,7 @@ Haiti8.49
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Haiti Altrusistic
+Haiti Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -397,7 +389,7 @@ Mozambique20.685
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Mozambique Altrusistic
+Mozambique Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -405,7 +397,7 @@ China10328.32
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-China Tech
+China Balance
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -413,7 +405,7 @@ India3503.985
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-India Mitigation
+India Tech
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -421,7 +413,7 @@ Iran495.335
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Iran Tech
+Iran Mitigation
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -545,15 +537,7 @@ Setting AI to true
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Nigerias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Ethiopias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing South Africas AI
+I am NewPlayer2986
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -566,36 +550,23 @@ Removing South Africas AI
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing UAEs AI
+Setting France AI to False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Omans AI
+Setting Greece AI to False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Iraqs AI
+Setting Europe AI to False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-
-
-
-
-
- jash
+confirm
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Colombias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Perus AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Costa Ricas AI
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -608,154 +579,52 @@ Removing Costa Ricas AI
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Fijis AI
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Single].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at ClientUIController.SetUpStatsPanel () [0x00000] in <filename unknown>:0 
+  at ClientUIController.Click_DisplayStats () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Marshall Islandss AI
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Dominican Republics AI
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-
-
-
-
-
- jash
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Mexicos AI
+Text
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Removing Republic Of Koreas AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Switzerlands AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Bolivias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Nicaraguas AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Venezuelas AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Bangladeshs AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Haitis AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Mozambiques AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Chinas AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Indias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Irans AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing USAs AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Russias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Australias AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Frances AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Greeces AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Removing Europes AI
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-
-
-
-
- jash
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 3 worker threads for Enlighten.
-  Thread -> id: 2330 -> priority: 1 
-  Thread -> id: 4944 -> priority: 1 
-  Thread -> id: 2054 -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 36f4 -> priority: 1 
+  Thread -> id: 36d0 -> priority: 1 

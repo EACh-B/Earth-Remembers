@@ -53,7 +53,7 @@ public class TippingPointController : MonoBehaviour {
 
         if (value >= min)
         {
-            TPChances[4] = (value / (max - min)) * 100;
+            TPChances[4] = AsymptoticProbabilityMap.instance.GetProbability(value, min, max) * 100;
         }
 
         int rnd = UnityEngine.Random.Range(1, 100);
@@ -78,48 +78,23 @@ public class TippingPointController : MonoBehaviour {
 
         if (value >= min)
         {
-            TPChances[3] = (value / (max - min)) * 100;
+            //The monsoon has been specified (by Manjana) to never trigger since the game's expected range is well below its minimum boundary
+            TPChances[3] = 0;
         }
-
-        int rnd = UnityEngine.Random.Range(1, 100);
-
-        if (rnd <= TPChances[3] && wsc.turn > 1)
-        {
-            monsoon = true;
-            img.color = Color.red;
-            img.gameObject.transform.GetChild(0).GetComponent<Text>().text = "Passed";
-        }
-        else
-        {
-            monsoon = false;
-            img.color = Color.green;
-            img.gameObject.transform.GetChild(0).GetComponent<Text>().text = TPChances[3].ToString("0.0") + "%";
-        }
+        monsoon = false;
+        img.color = Color.green;
+        img.gameObject.transform.GetChild(0).GetComponent<Text>().text = TPChances[3].ToString("0.0") + "%";
     }
 
     void CheckCoralReef(float value, float min, float max)
     {
         Image img = GameObject.Find("TP0_Img").GetComponent<Image>();
+        //I've removed conditionality from this one because coralReef has already passed its max temperature tipping point
+        //According to Manjana
+        coralReef = true;
+        img.color = Color.red;
+        img.gameObject.transform.GetChild(0).GetComponent<Text>().text = "Passed";
 
-        if(value >= min)
-        {
-            TPChances[0] = (value / (max - min)) * 100;
-        }
-
-        int rnd = UnityEngine.Random.Range(1, 100);
-
-        if (rnd <= TPChances[0])
-        {
-            coralReef = true;
-            img.color = Color.red;
-            img.gameObject.transform.GetChild(0).GetComponent<Text>().text = "Passed";
-        }
-        else
-        {
-            coralReef = false;
-            img.color = Color.green;
-            img.gameObject.transform.GetChild(0).GetComponent<Text>().text = TPChances[0].ToString("0.0") + "%";
-        }
     }
     void CheckArcticIce(float value, float min, float max)
     {
@@ -127,7 +102,7 @@ public class TippingPointController : MonoBehaviour {
 
         if (value >= min)
         {
-            TPChances[1] = (value / (max - min)) * 100;
+            TPChances[1] = AsymptoticProbabilityMap.instance.GetProbability(value,min,max) * 100;
         }
 
         int rnd = UnityEngine.Random.Range(1, 100);
@@ -152,7 +127,7 @@ public class TippingPointController : MonoBehaviour {
 
         if (value >= min)
         {
-            TPChances[2] = (value / (max - min)) * 100;
+            TPChances[2] = AsymptoticProbabilityMap.instance.GetProbability(value, min, max) * 100;
         }
 
         int rnd = UnityEngine.Random.Range(1, 100);
